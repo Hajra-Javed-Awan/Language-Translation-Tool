@@ -31,4 +31,4 @@ python translator.py
 
 ## Author
 
-**Your Name** - [GitHub](https://github.com/your-username)
+**Your Name** - [GitHub](https://github.com/Hajra-Javed-A)
